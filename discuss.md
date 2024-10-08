@@ -3,24 +3,29 @@
 Oct 22-ish
 
 ### flight duration expected
+<5 hours, likely 2 - 3 hours
 
 ### projected trajectory - to the extent known
+Within 300km of HCA International Airport in Beldringe (55.471729434086754, 10.32455297860977)
 
 ### attitude control -
-
+None
 
 ### antenna
 	calculate angle we want
-	moxon?
+	moxon? - looks interesting!
 
 ### maximum weight
+	100g
 
 ### maximum size
-
+ ~40 x 40 x 15 cm (size of a tall pizza box)
+ 
 ### power
-	saft batteries
+	saft batteries or existing psu.
 
 ### temperature range expected
+	-20 - 30 deg Celsius within gondola.
 
 ### reading:
 
