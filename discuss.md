@@ -1,8 +1,8 @@
-
-
 ### launch date
 
-also, i assume we have no influence on the date once it's set? --> tropo weather
+Oct 22-ish
+
+### flight duration expected
 
 ### projected trajectory - to the extent known
 
