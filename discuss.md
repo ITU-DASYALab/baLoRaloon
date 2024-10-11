@@ -27,6 +27,21 @@ None
 ### temperature range expected
 	-20 - 30 deg Celsius within gondola.
 
+### Wheigh
+T-Beam with out battery:31g
+Battery (3.7v 18650 LiPo, Temp?): 46g
+Antenna, tiny: 4.3g
+Antenna, small: 8.1g
+Antenna, less small: 20.0g
+
+### Data access:
+Make an account on thethingsnetwork.com
+
+Log on an find the project on:
+https://cloud.thethings.network
+
+Acces through MQTT or Webhooks
+
 ### reading:
 
 https://www.thethingsnetwork.org/article/lorawan-world-record-broken-twice-in-single-experiment-1
