@@ -39,6 +39,7 @@ Antenna, small: 8.1g
 
 Antenna, less small: 20.0g
 
+![Things weighed.](t-beams_3antennas_battery_ruler.jpg)
 
 
 ### Data access:
