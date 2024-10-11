@@ -25,10 +25,11 @@ None
 	saft batteries or existing psu.
 
 ### temperature range expected
-	-20 - 30 deg Celsius within gondola.
+	(-20) - (+30) deg Celsius within gondola.
 
-### Wheigh
-T-Beam with out battery:31g
+### Weight
+
+T-Beam without battery:31g
 
 Battery (3.7v 18650 LiPo, Temp?): 46g
 
@@ -39,13 +40,31 @@ Antenna, small: 8.1g
 Antenna, less small: 20.0g
 
 
+
 ### Data access:
+
 Make an account on thethingsnetwork.com
+
+Tell Sebastian ot enter your user as a collaborator
 
 Log on an find the project on:
 https://cloud.thethings.network
 
-Acces through MQTT or Webhooks
+Access through MQTT (each incoming message is sent out to all MQTT subscribers) 
+
+or Webhooks (which are web endpoints - e.g. your own scripts receiving messages and writing to database)
+
+- learn more:
+
+https://www.thethingsindustries.com/docs/integrations/
+
+### Left to do til day X
+
+- finish tracker devices (sebastian)
+- optional: setup gateway at airport or close
+- prepare ttnmapper.org (if we want to usee that too): make an "experiment" so that we don't poison the terrestrial map
+
+
 
 ### reading:
 
