@@ -27,7 +27,11 @@ None
 ### temperature range expected
 	(-20) - (+30) deg Celsius within gondola.
 
-### Weight
+### Devices
+
+#### T-Beam
+
+#### Weight
 
 T-Beam without battery:31g
 
@@ -40,6 +44,16 @@ Antenna, small: 8.1g
 Antenna, less small: 20.0g
 
 ![Things weighed.](t-beams_3antennas_battery_ruler.jpg)
+
+#### QRP Labs
+
+![image](https://github.com/user-attachments/assets/4f71fcc3-6d28-47e3-b4c8-585aa03b68b9)
+
+#### Experimental devices
+
+- truvami
+- RAK stickers
+- LT-10
 
 
 ### Data access:
@@ -74,5 +88,7 @@ https://www.thethingsnetwork.org/article/lorawan-world-record-broken-twice-in-si
 https://www.thethingsnetwork.org/article/ground-breaking-world-record-lorawan-packet-received-at-702-km-436-miles-distance
 
 https://www.thethingsnetwork.org/article/lorawan-distance-world-record
+
+https://amateur.sondehub.org
 
 https://amateur.sondehub.org/#!mt=Mapnik&mz=5&qm=12h&mc=56.53526,12.91992
