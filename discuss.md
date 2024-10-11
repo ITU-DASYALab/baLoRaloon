@@ -1,6 +1,6 @@
 ### launch date
 
-Oct 22-ish
+no earlier than Oct 21, monday
 
 ### flight duration expected
 <5 hours, likely 2 - 3 hours
